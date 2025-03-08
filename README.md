@@ -17,3 +17,9 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+3. Deployed link
+
+   ```
+   https://blank-app-s9vzp63x42l.streamlit.app/
+   ```
